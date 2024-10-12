@@ -1,0 +1,55 @@
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+EVs: 252 HP / 64 SpD / 192 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Whirlpool  
+- Taunt  
+- Nature's Madness  
+- Moonblast  
+
+Landorus-Therian (M) @ Normal Gem  
+Ability: Intimidate  
+EVs: 252 HP / 108 Atk / 148 Spe  
+Adamant Nature  
+- Swords Dance  
+- Earthquake  
+- Explosion  
+- Stealth Rock  
+
+Dragonite @ Heavy-Duty Boots  
+Ability: Multiscale  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Dual Wingbeat  
+- Earthquake  
+- Roost  
+
+Magnezone @ Chople Berry  
+Ability: Magnet Pull  
+EVs: 228 Def / 184 SpA / 96 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Iron Defense  
+- Body Press  
+- Steel Beam  
+- Thunderbolt  
+
+Weavile @ Heavy-Duty Boots  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Triple Axel  
+- Knock Off  
+- Ice Shard  
+
+Kartana @ Adrenaline Orb  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Leaf Blade  
+- Knock Off  
+- Sacred Sword  

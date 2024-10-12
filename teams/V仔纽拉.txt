@@ -1,0 +1,54 @@
+Corviknight @ Leftovers  
+Ability: Pressure  
+EVs: 248 HP / 8 Def / 252 SpD  
+Careful Nature  
+- Roost  
+- U-turn  
+- Defog  
+- Brave Bird  
+
+Buzzwole @ Rocky Helmet  
+Ability: Beast Boost  
+EVs: 240 HP / 76 Atk / 4 Def / 188 Spe  
+Adamant Nature  
+- Roost  
+- Ice Punch  
+- Close Combat  
+- Leech Life  
+
+Victini @ Heavy-Duty Boots  
+Ability: Victory Star  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- V-create  
+- Bolt Strike  
+- U-turn  
+- Encore  
+
+Weavile @ Heavy-Duty Boots  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Knock Off  
+- Triple Axel  
+- Ice Shard  
+
+Slowking @ Heavy-Duty Boots  
+Ability: Regenerator  
+EVs: 248 HP / 8 SpA / 252 SpD  
+Sassy Nature  
+IVs: 0 Atk / 0 Spe  
+- Slack Off  
+- Teleport  
+- Scald  
+- Future Sight  
+
+Hippowdon @ Heavy-Duty Boots  
+Ability: Sand Stream  
+EVs: 248 HP / 8 Def / 252 SpD  
+Careful Nature  
+- Stealth Rock  
+- Earthquake  
+- Toxic  
+- Slack Off  

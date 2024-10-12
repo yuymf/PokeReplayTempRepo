@@ -1,0 +1,57 @@
+Tornadus-Therian @ Heavy-Duty Boots  
+Ability: Regenerator  
+EVs: 252 HP / 88 SpA / 168 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Hurricane  
+- Focus Blast  
+- Taunt  
+
+Toxapex @ Shed Shell  
+Ability: Regenerator  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+- Light Screen  
+- Knock Off  
+- Toxic  
+- Recover  
+
+Gastrodon-East @ Heavy-Duty Boots  
+Ability: Sticky Hold  
+EVs: 252 HP / 76 Def / 180 SpD  
+Sassy Nature  
+- Scald  
+- Earthquake  
+- Toxic  
+- Recover  
+
+Corviknight @ Shed Shell  
+Ability: Pressure  
+EVs: 252 HP / 252 Def / 4 SpD  
+Relaxed Nature  
+IVs: 0 Atk / 30 Spe  
+- Iron Defense  
+- Body Press  
+- Roost  
+- Defog  
+
+Clefable @ Leftovers  
+Ability: Unaware  
+EVs: 252 HP / 196 Def / 56 SpD / 4 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Moonblast  
+- Flamethrower  
+- Soft-Boiled  
+
+Blissey (F) @ Heavy-Duty Boots  
+Ability: Natural Cure  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Seismic Toss  
+- Toxic  
+- Soft-Boiled  

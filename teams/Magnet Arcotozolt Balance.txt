@@ -1,0 +1,56 @@
+Solstice (Ninetales-Alola) @ Icy Rock  
+Ability: Snow Warning  
+EVs: 252 HP / 56 Def / 200 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Freeze-Dry  
+- Aurora Veil  
+- Encore  
+- Heal Bell  
+
+Mr. Freeze (Arctozolt) @ Magnet  
+Ability: Slush Rush  
+EVs: 252 Atk / 32 SpA / 224 Spe  
+Naive Nature  
+- Bolt Beak  
+- Blizzard  
+- Low Kick  
+- Freeze-Dry  
+
+Adrenaline (Slowking) @ Heavy-Duty Boots  
+Ability: Regenerator  
+EVs: 248 HP / 160 Def / 100 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Scald  
+- Future Sight  
+- Slack Off  
+- Teleport  
+
+Garchomp @ Leftovers  
+Ability: Rough Skin  
+EVs: 236 HP / 40 Atk / 216 SpD / 16 Spe  
+Careful Nature  
+- Stealth Rock  
+- Earthquake  
+- Toxic  
+- Flamethrower  
+
+Mean Green Machine (Tornadus-Therian) (M) @ Heavy-Duty Boots  
+Ability: Regenerator  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Nasty Plot  
+- Hurricane  
+- Focus Blast  
+- Knock Off  
+
+Steelfang (Corviknight) @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 252 Def / 4 SpD  
+Impish Nature  
+IVs: 29 Spe  
+- Roost  
+- Defog  
+- Body Press  
+- U-turn  

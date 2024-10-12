@@ -1,0 +1,55 @@
+Dragapult @ Choice Specs  
+Ability: Infiltrator  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+- Draco Meteor  
+- Shadow Ball  
+- Flamethrower  
+- U-turn  
+
+Urshifu-Rapid-Strike @ Choice Band  
+Ability: Unseen Fist  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Aqua Jet  
+- Surging Strikes  
+- Close Combat  
+- U-turn  
+
+Tapu Lele @ Choice Scarf  
+Ability: Psychic Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Future Sight  
+- Psyshock  
+- Moonblast  
+- Thunderbolt  
+
+Landorus-Therian (M) @ Leftovers  
+Ability: Intimidate  
+EVs: 248 HP / 204 SpD / 56 Spe  
+Careful Nature  
+- Stealth Rock  
+- Earthquake  
+- Knock Off  
+- U-turn  
+
+Zapdos @ Heavy-Duty Boots  
+Ability: Static  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hurricane  
+- Volt Switch  
+- Heat Wave  
+- Roost  
+
+Melmetal @ Leftovers  
+Ability: Iron Fist  
+EVs: 20 HP / 232 Atk / 196 SpD / 60 Spe  
+Adamant Nature  
+- Double Iron Bash  
+- Earthquake  
+- Toxic  
+- Protect  

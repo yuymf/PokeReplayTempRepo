@@ -1,0 +1,54 @@
+CHEATCODE (Krookodile) @ Leftovers  
+Ability: Intimidate  
+EVs: 248 HP / 84 Atk / 108 Def / 68 SpD  
+Adamant Nature  
+- Knock Off  
+- Earthquake  
+- Taunt  
+- Stealth Rock  
+
+Dragonite @ Heavy-Duty Boots  
+Ability: Multiscale  
+EVs: 248 HP / 124 Atk / 136 Spe  
+Adamant Nature  
+- Roost  
+- Earthquake  
+- Thunder Punch  
+- Dragon Dance  
+
+Tapu Koko @ Protective Pads  
+Ability: Electric Surge  
+EVs: 200 HP / 172 SpA / 136 Spe  
+Timid Nature  
+- U-turn  
+- Dazzling Gleam  
+- Thunderbolt  
+- Roost  
+
+Slowbro @ Colbur Berry  
+Ability: Regenerator  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Slack Off  
+- Toxic  
+- Teleport  
+
+Scizor @ Leftovers  
+Ability: Technician  
+EVs: 248 HP / 92 Atk / 168 SpD  
+Adamant Nature  
+- U-turn  
+- Bullet Punch  
+- Knock Off  
+- Roost  
+
+Kingdra @ Lum Berry  
+Ability: Swift Swim  
+EVs: 80 HP / 252 Atk / 4 Def / 172 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Outrage  
+- Flip Turn  

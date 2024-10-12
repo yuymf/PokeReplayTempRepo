@@ -1,0 +1,56 @@
+Tapu Koko @ Shuca Berry  
+Ability: Electric Surge  
+EVs: 56 HP / 252 SpA / 200 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunder  
+- Dazzling Gleam  
+- Calm Mind  
+- Roost  
+
+Slowbro @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Teleport  
+- Slack Off  
+- Future Sight  
+
+Politoed @ Damp Rock  
+Ability: Drizzle  
+EVs: 248 HP / 160 SpD / 100 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Encore  
+- Seismic Toss  
+- Rest  
+
+Scizor @ Metal Coat  
+Ability: Technician  
+EVs: 248 HP / 140 Atk / 36 Def / 84 SpD  
+Adamant Nature  
+- Swords Dance  
+- Bullet Punch  
+- U-turn  
+- Roost  
+
+Kingdra @ Choice Specs  
+Ability: Swift Swim  
+EVs: 40 HP / 252 SpA / 216 Spe  
+Modest Nature  
+- Surf  
+- Flip Turn  
+- Hydro Pump  
+- Scald  
+
+Krookodile @ Leftovers  
+Ability: Intimidate  
+EVs: 248 HP / 104 Atk / 156 Spe  
+Adamant Nature  
+- Aerial Ace  
+- Knock Off  
+- Stealth Rock  
+- Earthquake  

@@ -1,0 +1,56 @@
+Victini @ Scope Lens  
+Ability: Victory Star  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- V-create  
+- Bolt Strike  
+- U-turn  
+- Focus Energy  
+
+Kyurem @ Choice Specs  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Freeze-Dry  
+- Earth Power  
+- Focus Blast  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+EVs: 248 HP / 112 Def / 96 SpD / 52 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Whirlpool  
+- Moonblast  
+- Taunt  
+- Nature's Madness  
+
+Zeraora @ Heavy-Duty Boots  
+Ability: Volt Absorb  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Knock Off  
+- Plasma Fists  
+- Close Combat  
+- Bulk Up  
+
+Landorus-Therian (M) @ Leftovers  
+Ability: Intimidate  
+EVs: 252 HP / 232 Def / 24 Spe  
+Impish Nature  
+- Earthquake  
+- U-turn  
+- Toxic  
+- Defog  
+
+Scizor @ Heavy-Duty Boots  
+Ability: Technician  
+EVs: 252 HP / 56 Def / 200 SpD  
+Impish Nature  
+IVs: 20 Spe  
+- Bullet Punch  
+- U-turn  
+- Knock Off  
+- Roost  

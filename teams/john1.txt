@@ -1,0 +1,55 @@
+Luthier-Therian (Landorus-Therian) (M) @ Leftovers  
+Ability: Intimidate  
+EVs: 244 HP / 68 Def / 176 SpD / 20 Spe  
+Careful Nature  
+- Earthquake  
+- Toxic  
+- Stealth Rock  
+- U-turn  
+
+Toxapex @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 248 HP / 168 Def / 92 SpD  
+Relaxed Nature  
+- Knock Off  
+- Scald  
+- Haze  
+- Recover  
+
+Clefable @ Leftovers  
+Ability: Magic Guard  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Thunder Wave  
+- Wish  
+- Soft-Boiled  
+- Moonblast  
+
+Tyranitar @ Leftovers  
+Ability: Sand Stream  
+EVs: 252 HP / 48 Atk / 192 SpD / 16 Spe  
+Careful Nature  
+- Thunder Wave  
+- Rock Slide  
+- Earthquake  
+- Heavy Slam  
+
+Tornadus-Therian (M) @ Heavy-Duty Boots  
+Ability: Regenerator  
+EVs: 248 HP / 8 Def / 252 Spe  
+Timid Nature  
+- Heat Wave  
+- Knock Off  
+- Defog  
+- U-turn  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 132 SpD / 128 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Substitute  
+- Toxic  
+- Magma Storm  
+- Protect  

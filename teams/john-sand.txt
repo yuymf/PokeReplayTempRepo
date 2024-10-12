@@ -1,0 +1,55 @@
+Scizor @ Heavy-Duty Boots  
+Ability: Technician  
+EVs: 248 HP / 12 Def / 248 SpD  
+Careful Nature  
+- U-turn  
+- Knock Off  
+- Bullet Punch  
+- Roost  
+
+Clefable @ Leftovers  
+Ability: Magic Guard  
+EVs: 248 HP / 204 Def / 56 SpD  
+Bold Nature  
+- Thunder Wave  
+- Knock Off  
+- Soft-Boiled  
+- Moonblast  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 248 HP / 80 Def / 180 SpD  
+Careful Nature  
+IVs: 0 Atk  
+- Scald  
+- Light Screen  
+- Recover  
+- Haze  
+
+Hippowdon @ Leftovers  
+Ability: Sand Stream  
+EVs: 248 HP / 8 Def / 252 SpD  
+Careful Nature  
+- Earthquake  
+- Stealth Rock  
+- Toxic  
+- Slack Off  
+
+Skarmory @ Rocky Helmet  
+Ability: Sturdy  
+EVs: 252 HP / 232 Def / 24 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Spikes  
+- Roost  
+- Body Press  
+- Whirlwind  
+
+Tapu Koko @ Heavy-Duty Boots  
+Ability: Electric Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Dazzling Gleam  
+- U-turn  
+- Roost  

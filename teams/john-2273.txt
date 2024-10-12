@@ -1,0 +1,54 @@
+Landorus-Therian (M) @ Leftovers  
+Ability: Intimidate  
+EVs: 252 HP / 160 Def / 96 Spe  
+Impish Nature  
+- Stealth Rock  
+- Toxic  
+- U-turn  
+- Earthquake  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Spikes  
+- Body Press  
+- Leech Seed  
+- Iron Head  
+
+Weavile @ Heavy-Duty Boots  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Triple Axel  
+- Knock Off  
+- Ice Shard  
+
+Toxapex @ Shed Shell  
+Ability: Regenerator  
+EVs: 248 HP / 20 Def / 240 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Light Screen  
+- Haze  
+- Recover  
+- Scald  
+
+Tornadus-Therian (M) @ Heavy-Duty Boots  
+Ability: Regenerator  
+EVs: 248 HP / 92 SpD / 168 Spe  
+Timid Nature  
+- Heat Wave  
+- Toxic  
+- Knock Off  
+- Defog  
+
+Zeraora @ Heavy-Duty Boots  
+Ability: Volt Absorb  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Plasma Fists  
+- Bulk Up  
+- Knock Off  
+- Drain Punch  

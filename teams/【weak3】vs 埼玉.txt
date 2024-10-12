@@ -1,0 +1,58 @@
+Tapu Lele @ Choice Scarf  
+Ability: Psychic Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Moonblast  
+- Future Sight  
+- Thunderbolt  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 252 HP / 232 SpD / 24 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Magma Storm  
+- Earth Power  
+- Taunt  
+- Stealth Rock  
+
+Landorus-Therian (M) @ Leftovers  
+Ability: Intimidate  
+EVs: 252 HP / 216 Def / 40 SpD  
+Impish Nature  
+IVs: 30 Spe  
+- Earthquake  
+- Toxic  
+- U-turn  
+- Defog  
+
+Ferrothorn @ Rocky Helmet  
+Ability: Iron Barbs  
+EVs: 252 HP / 252 Def / 4 SpD  
+Impish Nature  
+IVs: 0 Spe  
+- Knock Off  
+- Gyro Ball  
+- Leech Seed  
+- Spikes  
+
+Dragapult @ Choice Specs  
+Ability: Infiltrator  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Shadow Ball  
+- Draco Meteor  
+- U-turn  
+- Hydro Pump  
+
+Nidoking @ Life Orb  
+Ability: Sheer Force  
+Shiny: Yes  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Mild Nature  
+- Sludge Wave  
+- Earth Power  
+- Flamethrower  
+- Focus Punch  

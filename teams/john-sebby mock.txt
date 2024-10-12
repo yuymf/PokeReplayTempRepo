@@ -1,0 +1,57 @@
+Kommo-o @ Throat Spray  
+Ability: Soundproof  
+EVs: 128 HP / 244 SpA / 136 Spe  
+Rash Nature  
+- Drain Punch  
+- Draco Meteor  
+- Clangorous Soul  
+- Ice Punch  
+
+Slowking @ Colbur Berry  
+Ability: Regenerator  
+EVs: 248 HP / 196 Def / 64 SpA  
+Relaxed Nature  
+IVs: 0 Atk / 0 Spe  
+- Flamethrower  
+- Ice Beam  
+- Teleport  
+- Slack Off  
+
+Tapu Koko @ Leftovers  
+Ability: Electric Surge  
+EVs: 136 HP / 188 SpA / 184 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Roost  
+- Taunt  
+- Volt Switch  
+- Dazzling Gleam  
+
+Krookodile @ Leftovers  
+Ability: Intimidate  
+EVs: 248 HP / 72 Atk / 172 Def / 16 Spe  
+Adamant Nature  
+- Knock Off  
+- Earthquake  
+- Stealth Rock  
+- Dragon Tail  
+
+Charizard @ Heavy-Duty Boots  
+Ability: Blaze  
+EVs: 248 HP / 172 Def / 88 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Roost  
+- Defog  
+- Toxic  
+
+Gengar @ Choice Specs  
+Ability: Cursed Body  
+EVs: 40 HP / 252 SpA / 216 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Shadow Ball  
+- Trick  
+- Focus Blast  
+- Icy Wind  

@@ -1,0 +1,58 @@
+Tornadus-Therian @ Heavy-Duty Boots  
+Ability: Regenerator  
+EVs: 232 HP / 112 SpA / 164 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Hurricane  
+- Focus Blast  
+- Taunt  
+
+Clefable @ Heavy-Duty Boots  
+Ability: Unaware  
+EVs: 252 HP / 160 Def / 96 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Soft-Boiled  
+- Heal Bell  
+- Calm Mind  
+
+Toxapex @ Payapa Berry  
+Ability: Regenerator  
+EVs: 252 HP / 76 Def / 180 SpD  
+Sassy Nature  
+IVs: 19 Spe  
+- Poison Jab  
+- Recover  
+- Knock Off  
+- Toxic  
+
+Hippowdon @ Leftovers  
+Ability: Sand Stream  
+EVs: 252 HP / 8 Atk / 248 SpD  
+Careful Nature  
+- Earthquake  
+- Slack Off  
+- Stealth Rock  
+- Toxic  
+
+Corviknight @ Rocky Helmet  
+Ability: Pressure  
+EVs: 248 HP / 252 Def / 8 SpD  
+Impish Nature  
+IVs: 0 Atk  
+- Body Press  
+- Iron Defense  
+- Defog  
+- Roost  
+
+Kyurem @ Heavy-Duty Boots  
+Ability: Pressure  
+EVs: 56 HP / 152 SpA / 76 SpD / 224 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Freeze-Dry  
+- Earth Power  
+- Substitute  
+- Roost  

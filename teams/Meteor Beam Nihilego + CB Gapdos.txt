@@ -1,0 +1,56 @@
+Nihilego @ Power Herb  
+Ability: Beast Boost  
+EVs: 80 Def / 176 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Meteor Beam  
+- Power Gem  
+- Sludge Wave  
+- Grass Knot  
+
+Zapdos-Galar @ Choice Band  
+Ability: Defiant  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Brave Bird  
+- Close Combat  
+- Stomping Tantrum  
+- U-turn  
+
+Kartana @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Smart Strike  
+- Sacred Sword  
+- Knock Off  
+
+Celesteela @ Power Herb  
+Ability: Beast Boost  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Autotomize  
+- Meteor Beam  
+- Air Slash  
+- Flamethrower  
+
+Garchomp @ Rocky Helmet  
+Ability: Rough Skin  
+EVs: 248 HP / 8 Def / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Earthquake  
+- Fire Blast  
+- Toxic  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+EVs: 248 HP / 72 Def / 32 SpA / 156 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Scald  
+- Draining Kiss  
+- Taunt  

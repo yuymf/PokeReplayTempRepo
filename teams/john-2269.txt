@@ -1,0 +1,54 @@
+Necrozma @ Power Herb  
+Ability: Prism Armor  
+EVs: 176 HP / 188 SpA / 144 Spe  
+Modest Nature  
+- Meteor Beam  
+- Heat Wave  
+- Photon Geyser  
+- Morning Sun  
+
+Garchomp @ Yache Berry  
+Ability: Rough Skin  
+EVs: 16 HP / 252 Atk / 240 Spe  
+Jolly Nature  
+- Earthquake  
+- Scale Shot  
+- Fire Fang  
+- Swords Dance  
+
+Mandibuzz (F) @ Heavy-Duty Boots  
+Ability: Overcoat  
+EVs: 248 HP / 152 Def / 72 SpD / 36 Spe  
+Impish Nature  
+- Foul Play  
+- Roost  
+- U-turn  
+- Toxic  
+
+Cinderace @ Heavy-Duty Boots  
+Ability: Blaze  
+EVs: 32 HP / 252 Atk / 4 SpD / 220 Spe  
+Adamant Nature  
+- Pyro Ball  
+- U-turn  
+- Super Fang  
+- Court Change  
+
+Primarina @ Choice Scarf  
+Ability: Torrent  
+EVs: 40 HP / 252 SpA / 216 Spe  
+Timid Nature  
+- Flip Turn  
+- Moonblast  
+- Scald  
+- Energy Ball  
+
+Electabuzz @ Eviolite  
+Ability: Static  
+EVs: 248 HP / 64 SpA / 100 SpD / 96 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Volt Switch  
+- Rest  
+- Teleport  

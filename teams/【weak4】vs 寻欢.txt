@@ -1,0 +1,58 @@
+Victini @ Scope Lens  
+Ability: Victory Star  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- V-create  
+- Bolt Strike  
+- U-turn  
+- Focus Energy  
+
+Kyurem @ Choice Specs  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Freeze-Dry  
+- Earth Power  
+- Focus Blast  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 248 HP / 44 Def / 216 SpD  
+Calm Nature  
+IVs: 0 Spe  
+- Knock Off  
+- Light Screen  
+- Recover  
+- Haze  
+
+Tapu Koko @ Heavy-Duty Boots  
+Ability: Electric Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Dazzling Gleam  
+- Roost  
+- Calm Mind  
+
+Garchomp @ Leftovers  
+Ability: Rough Skin  
+Shiny: Yes  
+EVs: 248 HP / 140 Def / 120 Spe  
+Impish Nature  
+- Earthquake  
+- Toxic  
+- Protect  
+- Stealth Rock  
+
+Corviknight @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 252 Def / 4 SpD  
+Impish Nature  
+IVs: 0 Atk  
+- Body Press  
+- Iron Defense  
+- Defog  
+- Roost  

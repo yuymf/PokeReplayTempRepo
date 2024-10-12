@@ -1,0 +1,56 @@
+Pelipper @ Damp Rock  
+Ability: Drizzle  
+EVs: 248 HP / 208 Def / 52 SpD  
+Relaxed Nature  
+IVs: 9 Spe  
+- Scald  
+- U-turn  
+- Roost  
+- Defog  
+
+Barraskewda @ Choice Band  
+Ability: Swift Swim  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Liquidation  
+- Close Combat  
+- Crunch  
+- Flip Turn  
+
+Tapu Lele @ Choice Specs  
+Ability: Psychic Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Moonblast  
+- Thunder  
+- Shadow Ball  
+
+Ferrothorn @ Rocky Helmet  
+Ability: Iron Barbs  
+EVs: 252 HP / 24 Def / 232 SpD  
+Careful Nature  
+- Spikes  
+- Leech Seed  
+- Power Whip  
+- Knock Off  
+
+Zapdos @ Heavy-Duty Boots  
+Ability: Static  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunder  
+- Hurricane  
+- Weather Ball  
+- Roost  
+
+Garchomp @ Leftovers  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Swords Dance  
+- Earthquake  
+- Aqua Tail  

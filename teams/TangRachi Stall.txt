@@ -1,0 +1,57 @@
+Tangrowth  
+Ability: Regenerator  
+EVs: 252 HP / 252 Def / 4 SpD  
+Relaxed Nature  
+- Giga Drain  
+- Knock Off  
+- Focus Blast  
+- Toxic  
+
+Toxapex @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Toxic  
+- Toxic Spikes  
+- Recover  
+
+Corviknight @ Shed Shell  
+Ability: Pressure  
+EVs: 252 HP / 252 Def / 4 SpD  
+Impish Nature  
+IVs: 0 Atk / 29 Spe  
+- Roost  
+- Iron Defense  
+- Body Press  
+- Defog  
+
+Blissey (F) @ Heavy-Duty Boots  
+Ability: Natural Cure  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Seismic Toss  
+- Heal Bell  
+- Soft-Boiled  
+
+Gastrodon-East @ Leftovers  
+Ability: Storm Drain  
+EVs: 252 HP / 232 SpD / 24 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Earth Power  
+- Clear Smog  
+- Recover  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 12 Atk / 68 Def / 176 SpD  
+Sassy Nature  
+- Iron Head  
+- Psychic  
+- Wish  
+- Protect  

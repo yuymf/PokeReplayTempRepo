@@ -1,0 +1,55 @@
+Weavile @ Heavy-Duty Boots  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Triple Axel  
+- Knock Off  
+- Ice Shard  
+
+Buzzwole @ Rocky Helmet  
+Ability: Beast Boost  
+EVs: 248 HP / 68 Def / 192 Spe  
+Adamant Nature  
+- Close Combat  
+- Ice Punch  
+- Roost  
+- Leech Life  
+
+Slowking-Galar @ Assault Vest  
+Ability: Regenerator  
+EVs: 248 HP / 12 Def / 128 SpA / 120 SpD  
+Calm Nature  
+- Future Sight  
+- Sludge Bomb  
+- Flamethrower  
+- Earthquake  
+
+Landorus-Therian (M) @ Leftovers  
+Ability: Intimidate  
+EVs: 252 HP / 16 Def / 148 SpD / 92 Spe  
+Impish Nature  
+- Stealth Rock  
+- Earthquake  
+- Toxic  
+- U-turn  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 56 SpD / 204 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Magma Storm  
+- Earth Power  
+- Taunt  
+- Toxic  
+
+Tapu Fini @ Choice Scarf  
+Ability: Misty Surge  
+EVs: 248 HP / 8 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Surf  
+- Moonblast  
+- Defog  
+- Trick  

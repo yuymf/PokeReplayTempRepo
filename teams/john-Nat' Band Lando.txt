@@ -1,0 +1,54 @@
+Landorus-Therian (M) @ Choice Band  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- U-turn  
+- Knock Off  
+- Stone Edge  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 56 Def / 200 SpD  
+Careful Nature  
+- Stealth Rock  
+- Leech Seed  
+- Body Press  
+- Knock Off  
+
+Slowking-Galar @ Assault Vest  
+Ability: Regenerator  
+EVs: 252 HP / 176 SpA / 80 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Earthquake  
+- Sludge Bomb  
+- Future Sight  
+- Flamethrower  
+
+Tornadus-Therian (M) @ Heavy-Duty Boots  
+Ability: Regenerator  
+EVs: 248 HP / 92 SpD / 168 Spe  
+Timid Nature  
+- Heat Wave  
+- U-turn  
+- Knock Off  
+- Defog  
+
+Buzzwole @ Rocky Helmet  
+Ability: Beast Boost  
+EVs: 16 HP / 84 Atk / 204 Def / 204 Spe  
+Adamant Nature  
+- Ice Punch  
+- Roost  
+- Thunder Punch  
+- Close Combat  
+
+Urshifu-Rapid-Strike @ Protective Pads  
+Ability: Unseen Fist  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- U-turn  
+- Surging Strikes  
+- Aqua Jet  

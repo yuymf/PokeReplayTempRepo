@@ -1,0 +1,58 @@
+Clefable @ Rocky Helmet  
+Ability: Magic Guard  
+EVs: 252 HP / 244 Def / 12 Spe  
+Bold Nature  
+- Moonblast  
+- Knock Off  
+- Thunder Wave  
+- Soft-Boiled  
+
+Slowking-Galar @ Heavy-Duty Boots  
+Ability: Regenerator  
+EVs: 248 HP / 12 Def / 108 SpA / 140 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Psyshock  
+- Flamethrower  
+- Grass Knot  
+
+Skarmory @ Shed Shell  
+Ability: Sturdy  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk / 30 Spe  
+- Spikes  
+- Body Press  
+- Toxic  
+- Roost  
+
+Gastrodon-East @ Heavy-Duty Boots  
+Ability: Storm Drain  
+EVs: 252 HP / 28 Def / 220 SpD / 8 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Scald  
+- Earth Power  
+- Clear Smog  
+- Recover  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 252 HP / 212 SpD / 44 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Magma Storm  
+- Earth Power  
+- Taunt  
+
+Tapu Koko @ Heavy-Duty Boots  
+Ability: Electric Surge  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Dazzling Gleam  
+- Toxic  
+- Roost  

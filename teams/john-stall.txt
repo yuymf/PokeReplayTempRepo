@@ -1,0 +1,55 @@
+Toxapex @ Shed Shell  
+Ability: Regenerator  
+EVs: 248 HP / 208 Def / 52 SpD  
+Impish Nature  
+- Knock Off  
+- Toxic Spikes  
+- Recover  
+- Haze  
+
+Buzzwole @ Rocky Helmet  
+Ability: Beast Boost  
+EVs: 248 HP / 72 Atk / 188 Spe  
+Adamant Nature  
+- Roost  
+- Close Combat  
+- Ice Punch  
+- Thunder Punch  
+
+Quagsire @ Leftovers  
+Ability: Unaware  
+EVs: 248 HP / 196 Def / 64 SpD  
+Relaxed Nature  
+- Scald  
+- Recover  
+- Earthquake  
+- Toxic  
+
+Clefable @ Heavy-Duty Boots  
+Ability: Unaware  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Soft-Boiled  
+- Calm Mind  
+- Aromatherapy  
+
+Blissey (F) @ Heavy-Duty Boots  
+Ability: Natural Cure  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Seismic Toss  
+- Soft-Boiled  
+- Toxic  
+- Stealth Rock  
+
+Corviknight @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 128 Def / 128 SpD  
+Impish Nature  
+- U-turn  
+- Roost  
+- Brave Bird  
+- Defog  

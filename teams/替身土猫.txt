@@ -1,0 +1,56 @@
+Landorus-Therian (M) @ Leftovers  
+Ability: Intimidate  
+EVs: 160 HP / 252 Atk / 96 Spe  
+Adamant Nature  
+- Substitute  
+- Toxic  
+- Earthquake  
+- Knock Off  
+
+Magnezone @ Leftovers  
+Ability: Magnet Pull  
+EVs: 252 Def / 4 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Iron Defense  
+- Body Press  
+- Flash Cannon  
+
+Slowking-Galar @ Assault Vest  
+Ability: Regenerator  
+EVs: 248 HP / 124 SpA / 136 SpD  
+Sassy Nature  
+- Future Sight  
+- Earthquake  
+- Sludge Bomb  
+- Flamethrower  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+EVs: 248 HP / 252 Def / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Surf  
+- Draining Kiss  
+- Taunt  
+
+Kommo-o @ Rocky Helmet  
+Ability: Bulletproof  
+EVs: 248 HP / 252 Def / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Iron Defense  
+- Body Press  
+- Taunt  
+
+Corviknight @ Leftovers  
+Ability: Pressure  
+EVs: 248 HP / 252 SpD / 8 Spe  
+Careful Nature  
+- Roost  
+- Brave Bird  
+- Defog  
+- U-turn  

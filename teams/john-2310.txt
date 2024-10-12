@@ -1,0 +1,56 @@
+Kartana @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Knock Off  
+- Sacred Sword  
+- Aerial Ace  
+
+Magnezone @ Chople Berry  
+Ability: Magnet Pull  
+EVs: 176 Def / 236 SpA / 96 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Iron Defense  
+- Body Press  
+- Thunderbolt  
+- Flash Cannon  
+
+Tapu Lele @ Twisted Spoon  
+Ability: Psychic Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Psychic  
+- Future Sight  
+- Moonblast  
+- Focus Blast  
+
+Dragonite @ Heavy-Duty Boots  
+Ability: Multiscale  
+EVs: 40 HP / 216 Atk / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Ice Punch  
+- Earthquake  
+- Roost  
+
+Urshifu-Rapid-Strike @ Protective Pads  
+Ability: Unseen Fist  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Surging Strikes  
+- U-turn  
+- Close Combat  
+- Focus Punch  
+
+Blissey (F) @ Heavy-Duty Boots  
+Ability: Natural Cure  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Healing Wish  
+- Teleport  
+- Soft-Boiled  
+- Thunder Wave  

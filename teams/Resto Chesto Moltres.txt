@@ -1,0 +1,55 @@
+Kartana @ Choice Band  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Smart Strike  
+- Knock Off  
+- Leaf Blade  
+- Sacred Sword  
+
+Landorus-Therian @ Soft Sand  
+Ability: Intimidate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- U-turn  
+- Defog  /  Smack Down  
+- Stealth Rock  
+
+Melmetal @ Protective Pads  
+Ability: Iron Fist  
+EVs: 216 HP / 252 Atk / 40 Spe  
+Adamant Nature  
+- Double Iron Bash  
+- Thunder Punch  
+- Superpower  
+- Thunder Wave  
+
+Tapu Lele @ Choice Scarf  
+Ability: Psychic Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Future Sight  
+- Psyshock  
+- Moonblast  
+- Thunderbolt  
+
+Moltres-Galar @ Chesto Berry  
+Ability: Berserk  
+EVs: 160 HP / 252 SpA / 96 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Agility  
+- Fiery Wrath  
+- Rest  
+
+Urshifu-Rapid-Strike @ Choice Band  
+Ability: Unseen Fist  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Surging Strikes  
+- U-turn  
+- Close Combat  
+- Aqua Jet  

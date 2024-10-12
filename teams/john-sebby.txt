@@ -1,0 +1,54 @@
+Cinderace @ Choice Band  
+Ability: Blaze  
+EVs: 16 HP / 252 Atk / 240 Spe  
+Adamant Nature  
+- Pyro Ball  
+- Low Kick  
+- U-turn  
+- Sucker Punch  
+
+Rotom-Wash @ Custap Berry  
+Ability: Levitate  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Hydro Pump  
+- Will-O-Wisp  
+- Pain Split  
+
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+EVs: 248 HP / 156 Def / 104 SpD  
+Impish Nature  
+- Heavy Slam  
+- Flamethrower  
+- Protect  
+- Leech Seed  
+
+Kyurem @ Heavy-Duty Boots  
+Ability: Pressure  
+EVs: 220 HP / 36 Def / 252 SpD  
+Adamant Nature  
+- Icicle Spear  
+- Rock Slide  
+- Dragon Dance  
+- Roost  
+
+Nidoqueen (F) @ Payapa Berry  
+Ability: Sheer Force  
+EVs: 244 HP / 36 Atk / 108 Def / 120 SpD  
+Relaxed Nature  
+- Ice Beam  
+- Flamethrower  
+- Poison Jab  
+- Toxic Spikes  
+
+Eldegoss @ Eject Button  
+Ability: Regenerator  
+EVs: 252 HP / 120 Def / 136 SpD  
+Bold Nature  
+- Rapid Spin  
+- Energy Ball  
+- Light Screen  
+- Aromatherapy 

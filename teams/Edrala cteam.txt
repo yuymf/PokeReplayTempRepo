@@ -1,0 +1,55 @@
+Zapdos @ Heavy-Duty Boots  
+Ability: Pressure  
+EVs: 248 HP / 228 Def / 32 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Heat Wave  
+- Roost  
+- Defog  
+
+Corviknight @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 216 Def / 40 SpD  
+Impish Nature  
+- Brave Bird  
+- U-turn  
+- Roost  
+- Defog  
+
+Blissey (F) @ Heavy-Duty Boots  
+Ability: Natural Cure  
+EVs: 252 HP / 224 Def / 32 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Seismic Toss  
+- Aromatherapy  
+- Soft-Boiled  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 12 Atk / 68 Def / 176 SpD  
+Sassy Nature  
+- Iron Head  
+- Psychic  
+- Wish  
+- Protect  
+
+Toxapex @ Shed Shell  
+Ability: Regenerator  
+EVs: 248 HP / 8 Atk / 252 Def  
+Impish Nature  
+- Toxic Spikes  
+- Knock Off  
+- Toxic  
+- Recover  
+
+Quagsire @ Leftovers  
+Ability: Unaware  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Scald  
+- Earthquake  
+- Toxic  
+- Recover 

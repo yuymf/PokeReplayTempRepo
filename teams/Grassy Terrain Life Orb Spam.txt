@@ -1,0 +1,54 @@
+Dragapult @ Muscle Band  
+Ability: Clear Body  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naughty Nature  
+- Dragon Darts  
+- U-turn  
+- Sucker Punch  
+- Flamethrower  
+
+Tapu Lele @ Choice Scarf  
+Ability: Psychic Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Psychic  
+- Moonblast  
+- Thunderbolt  
+
+Rillaboom @ Life Orb  
+Ability: Grassy Surge  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Grassy Glide  
+- Superpower  
+- Taunt  
+
+Zeraora @ Life Orb  
+Ability: Volt Absorb  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Knock Off  
+- Plasma Fists  
+- Close Combat  
+- Taunt  
+
+Weavile @ Life Orb  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Triple Axel  
+- Knock Off  
+- Ice Shard  
+
+Skarmory (M) @ Custap Berry  
+Ability: Sturdy  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Spikes  
+- Taunt  
+- Brave Bird  

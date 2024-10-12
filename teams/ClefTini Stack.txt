@@ -1,0 +1,59 @@
+Tapu Koko @ Heavy-Duty Boots  
+Ability: Electric Surge  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Dazzling Gleam  
+- Roost  
+- Calm Mind  
+
+Dragonite @ Heavy-Duty Boots  
+Ability: Multiscale  
+EVs: 184 HP / 72 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Dual Wingbeat  
+- Roost  
+- Dragon Dance  
+
+Victini @ Heavy-Duty Boots  
+Ability: Victory Star  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- V-create  
+- Bolt Strike  
+- U-turn  
+- Encore  
+
+Ferrothorn @ Rocky Helmet  
+Ability: Iron Barbs  
+EVs: 248 HP / 248 Def / 12 SpD  
+Relaxed Nature  
+IVs: 0 Spe  
+- Leech Seed  
+- Knock Off  
+- Spikes  
+- Gyro Ball  
+
+Landorus-Therian (M) @ Leftovers  
+Ability: Intimidate  
+EVs: 252 HP / 56 Def / 200 SpD  
+Relaxed Nature  
+IVs: 29 Spe  
+- Earthquake  
+- Toxic  
+- Stealth Rock  
+- U-turn  
+
+Clefable @ Sticky Barb  
+Ability: Magic Guard  
+Shiny: Yes  
+EVs: 252 HP / 120 Def / 136 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Trick  
+- Thunder Wave  
+- Soft-Boiled  
+

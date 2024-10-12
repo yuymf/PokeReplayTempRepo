@@ -1,0 +1,57 @@
+Landorus-Therian (M) @ Leftovers  
+Ability: Intimidate  
+EVs: 248 HP / 168 Def / 92 SpD  
+Impish Nature  
+IVs: 30 Spe  
+- Stealth Rock  
+- U-turn  
+- Knock Off  
+- Earthquake  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 248 HP / 148 Def / 112 SpD  
+Careful Nature  
+- Knock Off  
+- Spikes  
+- Leech Seed  
+- Iron Head  
+
+Clefable @ Life Orb  
+Ability: Magic Guard  
+EVs: 252 HP / 200 Def / 48 SpD / 8 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Calm Mind  
+- Soft-Boiled  
+- Thunder  
+
+Tornadus-Therian (M) @ Heavy-Duty Boots  
+Ability: Regenerator  
+EVs: 244 HP / 100 Def / 164 Spe  
+Timid Nature  
+- U-turn  
+- Knock Off  
+- Heat Wave  
+- Defog  
+
+Slowbro @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 252 HP / 252 Def / 4 SpA  
+Relaxed Nature  
+IVs: 0 Atk / 0 Spe  
+- Scald  
+- Future Sight  
+- Slack Off  
+- Teleport  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 216 SpD / 44 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Magma Storm  
+- Earth Power  
+- Toxic  
+- Taunt  

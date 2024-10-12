@@ -1,0 +1,55 @@
+Slowbro @ Heavy-Duty Boots  
+Ability: Regenerator  
+EVs: 248 HP / 20 Def / 240 SpD  
+Relaxed Nature  
+IVs: 0 Atk / 0 Spe  
+- Future Sight  
+- Scald  
+- Slack Off  
+- Teleport  
+
+Victini @ Heavy-Duty Boots  
+Ability: Victory Star  
+EVs: 212 Atk / 44 Def / 252 Spe  
+Jolly Nature  
+- V-create  
+- Bolt Strike  
+- U-turn  
+- Encore  
+
+Tapu Koko @ Heavy-Duty Boots  
+Ability: Electric Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Toxic  
+- U-turn  
+- Roost  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 244 Def / 12 SpD  
+Impish Nature  
+- Spikes  
+- Leech Seed  
+- Body Press  
+- Knock Off  /  Gyro Ball  
+
+Landorus-Therian (M) @ Leftovers  
+Ability: Intimidate  
+EVs: 248 HP / 8 Def / 252 SpD  
+Careful Nature  
+IVs: 24 Spe  
+- Stealth Rock  
+- Earthquake  
+- Toxic  
+- U-turn  
+
+Weavile @ Heavy-Duty Boots  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Ice Shard  
+- Triple Axel  
+- Knock Off  

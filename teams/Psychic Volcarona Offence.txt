@@ -1,0 +1,55 @@
+Volcarona @ Heavy-Duty Boots  
+Ability: Flame Body  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Quiver Dance  
+- Flamethrower  
+- Bug Buzz  
+- Psychic  
+
+Tapu Lele @ Choice Specs  
+Ability: Psychic Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Moonblast  
+- Focus Blast  
+- Psychic  
+
+Weavile @ Heavy-Duty Boots  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Triple Axel  
+- Knock Off  
+- Low Kick  /  Ice Shard  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 252 Def / 4 SpD  
+Impish Nature  
+- Spikes  
+- Knock Off  
+- Leech Seed  
+- Body Press  
+
+Landorus-Therian (M) @ Leftovers  
+Ability: Intimidate  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+IVs: 13 Spe  
+- Stealth Rock  
+- Earthquake  
+- U-turn  
+- Toxic  
+
+Dragapult @ Choice Specs  
+Ability: Infiltrator  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+- Shadow Ball  
+- Draco Meteor  
+- U-turn  
+- Flamethrower  

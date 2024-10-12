@@ -1,0 +1,55 @@
+Ninetales-Alola @ Light Clay  
+Ability: Snow Warning  
+EVs: 248 HP / 8 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Freeze-Dry  
+- Hypnosis  
+- Encore  
+- Aurora Veil  
+
+Dragapult @ Dragon Fang  
+Ability: Clear Body  
+EVs: 112 HP / 252 Atk / 12 SpA / 132 Spe  
+Naughty Nature  
+- Dragon Dance  
+- Dragon Darts  
+- Phantom Force  
+- Flamethrower  
+
+Heatran @ Air Balloon  
+Ability: Flame Body  
+EVs: 184 HP / 96 SpA / 4 SpD / 224 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Magma Storm  
+- Earth Power  
+- Taunt  
+
+Garchomp @ Leftovers  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Earthquake  
+- Scale Shot  
+- Fire Fang  
+
+Scizor @ Leftovers  
+Ability: Technician  
+EVs: 88 HP / 252 Atk / 4 Def / 164 Spe  
+Adamant Nature  
+- Swords Dance  
+- Bullet Punch  
+- Knock Off  
+- Roost  
+
+Arctozolt @ Heavy-Duty Boots  
+Ability: Slush Rush  
+EVs: 224 Atk / 48 SpA / 236 Spe  
+Naive Nature  
+- Bolt Beak  
+- Blizzard  
+- Low Kick  
+- Substitute  

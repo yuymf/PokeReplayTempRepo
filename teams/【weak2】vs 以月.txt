@@ -1,0 +1,63 @@
+Magnezone @ Choice Specs  
+Ability: Magnet Pull  
+Shiny: Yes  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Flash Cannon  
+- Thunderbolt  
+- Volt Switch  
+- Teleport  
+
+Corviknight @ Rocky Helmet  
+Ability: Pressure  
+Shiny: Yes  
+EVs: 252 HP / 252 Def / 4 SpD  
+Impish Nature  
+IVs: 19 Spe  
+- Body Press  
+- U-turn  
+- Defog  
+- Roost  
+
+Kartana @ Choice Scarf  
+Ability: Beast Boost  
+Shiny: Yes  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Leaf Blade  
+- Sacred Sword  
+- Knock Off  
+- Smart Strike  
+
+Tapu Fini @ Leftovers  
+Ability: Misty Surge  
+Shiny: Yes  
+EVs: 248 HP / 124 SpD / 136 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Draining Kiss  
+- Scald  
+- Taunt  
+- Calm Mind  
+
+Slowking-Galar @ Assault Vest  
+Ability: Regenerator  
+Shiny: Yes  
+EVs: 248 HP / 12 Def / 72 SpA / 176 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Future Sight  
+- Ice Beam  
+- Sludge Bomb  
+
+Garchomp @ Leftovers  
+Ability: Rough Skin  
+Shiny: Yes  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Scale Shot  
+- Swords Dance  
+- Stealth Rock  

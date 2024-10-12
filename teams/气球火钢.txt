@@ -1,0 +1,56 @@
+Scizor (M) @ Heavy-Duty Boots  
+Ability: Technician  
+EVs: 248 HP / 32 Def / 228 SpD  
+Careful Nature  
+- Bullet Punch  
+- Knock Off  
+- U-turn  
+- Roost  
+
+Tapu Fini @ Choice Scarf  
+Ability: Misty Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Trick  
+- Moonblast  
+- Surf  
+- Defog  
+
+Heatran @ Air Balloon  
+Ability: Flash Fire  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Magma Storm  
+- Earth Power  
+- Nature Power  
+- Taunt  
+
+Landorus-Therian (M) @ Leftovers  
+Ability: Intimidate  
+EVs: 248 HP / 8 Def / 252 SpD  
+Careful Nature  
+- Stealth Rock  
+- Earthquake  
+- U-turn  
+- Knock Off  
+
+Weavile @ Heavy-Duty Boots  
+Ability: Pressure  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Knock Off  
+- Triple Axel  
+- Swords Dance  
+- Low Kick  
+
+Zapdos @ Heavy-Duty Boots  
+Ability: Static  
+EVs: 248 HP / 252 Def / 8 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Roost  
+- Volt Switch  
+- Toxic  
+- Heat Wave  
